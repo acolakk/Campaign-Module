@@ -1,0 +1,14 @@
+C:\Users\a-col\Desktop\Projects\Campaign-Module\Campaign-Module\bin\Debug\JsonData\Campaign.json
+C:\Users\a-col\Desktop\Projects\Campaign-Module\Campaign-Module\bin\Debug\JsonData\Order.Json
+C:\Users\a-col\Desktop\Projects\Campaign-Module\Campaign-Module\bin\Debug\JsonData\Product.Json
+C:\Users\a-col\Desktop\Projects\Campaign-Module\Campaign-Module\bin\Debug\Campaign-Module.exe.config
+C:\Users\a-col\Desktop\Projects\Campaign-Module\Campaign-Module\bin\Debug\Campaign-Module.exe
+C:\Users\a-col\Desktop\Projects\Campaign-Module\Campaign-Module\bin\Debug\Campaign-Module.pdb
+C:\Users\a-col\Desktop\Projects\Campaign-Module\Campaign-Module\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a-col\Desktop\Projects\Campaign-Module\Campaign-Module\bin\Debug\Newtonsoft.Json.xml
+C:\Users\a-col\Desktop\Projects\Campaign-Module\Campaign-Module\obj\Debug\Campaign-Module.csproj.AssemblyReference.cache
+C:\Users\a-col\Desktop\Projects\Campaign-Module\Campaign-Module\obj\Debug\Campaign-Module.csproj.SuggestedBindingRedirects.cache
+C:\Users\a-col\Desktop\Projects\Campaign-Module\Campaign-Module\obj\Debug\Campaign-Module.csproj.CoreCompileInputs.cache
+C:\Users\a-col\Desktop\Projects\Campaign-Module\Campaign-Module\obj\Debug\Campaign-Module.csproj.CopyComplete
+C:\Users\a-col\Desktop\Projects\Campaign-Module\Campaign-Module\obj\Debug\Campaign-Module.exe
+C:\Users\a-col\Desktop\Projects\Campaign-Module\Campaign-Module\obj\Debug\Campaign-Module.pdb

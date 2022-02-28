@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f6454f05-2b1d-45b7-937e-e6e34cae542e": {
+      "ProjectGuid": "f6454f05-2b1d-45b7-937e-e6e34cae542e",
+      "DisplayName": "Campaign-Module-Test",
+      "ColorIndex": 0
+    },
+    "b21b870a-9a6c-4843-8e2e-52c2845db965": {
+      "ProjectGuid": "b21b870a-9a6c-4843-8e2e-52c2845db965",
+      "DisplayName": "Campaign-Module",
+      "ColorIndex": 1
+    },
+    "7a10897d-d13d-4514-a0ae-1c0a3f21a7c5": {
+      "ProjectGuid": "7a10897d-d13d-4514-a0ae-1c0a3f21a7c5",
+      "DisplayName": "Test-Campaign-Module",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
